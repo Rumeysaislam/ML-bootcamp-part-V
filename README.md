@@ -16,3 +16,5 @@ Pipeline'in amaci; bir makine ogrenmesi surecini fonksiyonel bir formda belirli 
         6. Prediction for a New Observation
 
         7. Pipeline Main Function
+
+konulari islenmistir. :)
